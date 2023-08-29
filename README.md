@@ -4,12 +4,14 @@ The planet icons from the game Outer Wilds redrawn as .svg
 ## Content
 The following icons are included in this repo.
 
+- Ash Twin
 - Attlerock
 - Brittle Hollow
   - Brittle Hollow v1 
   - Brittle Hollow v2 
   - Brittle Hollow v3 
 - Dark Bramble
+- Ember Twin
 - Eye Coordinates
 - Giant's Deep
   - Giant's Deep v1
@@ -19,8 +21,9 @@ The following icons are included in this repo.
 - Interloper
 - Orbital Probe Canon
 - Quantum Moon
-- Sun
 - Sun Station
+	- Sun Station v0
+	- Sun Station v1
 - The Eye
   -  The Eye
   -  The full Eye
