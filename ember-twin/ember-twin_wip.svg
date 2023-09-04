@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="82.83847mm"
-   height="91.571671mm"
-   viewBox="0 0 82.83847 91.571671"
+   width="77.419678mm"
+   height="85.958931mm"
+   viewBox="0 0 77.419677 85.958931"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -29,20 +29,21 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.413275"
-     inkscape:cx="85.262953"
+     inkscape:cx="65.097026"
      inkscape:cy="303.55026"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer7" /><defs
+     inkscape:current-layer="layer7"
+     inkscape:lockguides="true" /><defs
      id="defs2" /><g
      inkscape:label="reference"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:none"
-     transform="translate(-116.55929,-38.607108)"><image
+     transform="translate(-121.97808,-38.607108)"><image
        width="211.46638"
        height="206.96712"
        preserveAspectRatio="none"
@@ -64,7 +65,7 @@
      id="layer2"
      inkscape:label="drawing"
      style="display:none"
-     transform="translate(-116.55929,-38.607108)"><g
+     transform="translate(-121.97808,-38.607108)"><g
        inkscape:groupmode="layer"
        id="layer4"
        inkscape:label="ember twin"><path
@@ -102,7 +103,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="final"
-     transform="translate(-116.55929,-38.607108)"
+     transform="translate(-121.97808,-38.607108)"
      style="display:inline"><g
        inkscape:groupmode="layer"
        id="g3232"
@@ -128,13 +129,4 @@
            style="fill:#66ff00;fill-opacity:0.985507;stroke-width:0.264583"
            d="m 190.9389,106.0611 3.75949,2.89192 4.69937,-9.25414 -0.1446,-1.952045 -5.20545,-0.0723 z"
            id="path3228"
-           inkscape:label="bottom reight" /></g></g><g
-       inkscape:groupmode="layer"
-       id="g3236"
-       inkscape:label="sand stream"
-       style="display:inline"><path
-         id="path2540"
-         style="display:inline;fill:#66ff00;fill-opacity:1;stroke-width:0.264583"
-         inkscape:label="ember sand"
-         d="m 143.4393,94.854837 c -9.18865,9.258063 -18.12708,18.294903 -26.88001,27.150283 l 4.34289,8.17366 c 9.89997,-9.89353 19.75572,-19.70047 28.88247,-28.75794 z"
-         sodipodi:nodetypes="ccccc" /></g></g></svg>
+           inkscape:label="bottom reight" /></g></g></g></svg>

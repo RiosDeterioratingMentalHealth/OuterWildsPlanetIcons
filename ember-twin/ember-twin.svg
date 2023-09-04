@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="82.83847mm"
-   height="91.571671mm"
-   viewBox="0 0 82.83847 91.571671"
+   width="77.419678mm"
+   height="85.429764mm"
+   viewBox="0 0 77.419677 85.429764"
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:export-filename="ember-twin.png"
-   inkscape:export-xdpi="1226.4833"
-   inkscape:export-ydpi="1226.4833"
-   sodipodi:docname="ember-twin.svg"
+   inkscape:export-filename="hourglass_wip.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="ember-twin_wip.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,19 +28,20 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.413275"
-     inkscape:cx="85.616741"
+     inkscape:cx="65.097026"
      inkscape:cy="303.55026"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer7" /><defs
+     inkscape:current-layer="g3232"
+     inkscape:lockguides="true" /><defs
      id="defs2" /><g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="final"
-     transform="translate(-116.55929,-38.607108)"
+     transform="translate(-121.97808,-39.136274)"
      style="display:inline"><g
        inkscape:groupmode="layer"
        id="g3232"
@@ -51,8 +52,8 @@
          d="m 157.81466,49.077625 a 38.392899,38.392899 0 0 0 -35.68878,24.292574 l 5.25239,2.113566 a 33.076172,33.076172 0 0 0 -2.27841,10.730094 l -3.07888,0.02015 a 36.143513,36.143513 0 0 0 -0.0429,1.031978 36.143513,36.143513 0 0 0 2.29754,12.605432 l 2.5647,-1.516703 a 33.076172,33.076172 0 0 0 2.15077,4.913404 l 17.12299,-14.269422 2.60294,2.675289 1.44591,-1.301729 4.55476,4.410583 -1.37356,1.301213 2.67477,2.241206 -14.51643,17.89245 a 33.076172,33.076172 0 0 0 13.34234,4.35012 l -0.5395,3.77807 a 37.33643,37.33643 0 0 0 3.8163,0.22014 37.33643,37.33643 0 0 0 0.83458,-0.031 l -0.0971,-3.81113 a 33.076172,33.076172 0 0 0 13.89217,-3.39566 l 2.27015,4.45347 A 38.392899,38.392899 0 0 0 195.96742,91.5138 l -1.94407,-0.233578 a 36.143513,36.143513 0 0 0 0.24184,-4.014225 36.143513,36.143513 0 0 0 -1.7818,-11.196732 l -2.97346,1.18339 a 33.076172,33.076172 0 0 0 -4.43952,-8.722465 l -15.89722,16.256372 -2.59726,-2.090312 -1.47846,1.509469 -4.45141,-4.797123 1.55081,-1.368909 -2.18695,-2.817916 15.45952,-15.695683 a 33.076172,33.076172 0 0 0 -7.31221,-3.367753 l 2.08256,-5.01158 a 38.392899,38.392899 0 0 0 -12.42508,-2.069124 z" /><g
          id="g3230"
          inkscape:label="mountains"><path
-           style="fill:#ffffff;fill-opacity:0.985507;stroke-width:0.264583"
-           d="m 152.83788,38.679405 3.2534,6.145326 v 6.868306 h 5.13316 l 0.14459,-8.241967 1.95205,-4.843962 z"
+           style="fill:#ffffff;fill-opacity:0.985507;stroke-width:0.243185"
+           d="m 153.2618,39.202725 2.99028,5.648318 v 6.312828 h 4.718 l 0.13291,-7.575393 1.79417,-4.452204 z"
            id="path3222"
            inkscape:label="top right" /><path
            style="fill:#ffffff;fill-opacity:0.985507;stroke-width:0.264583"
@@ -66,13 +67,4 @@
            style="fill:#ffffff;fill-opacity:0.985507;stroke-width:0.264583"
            d="m 190.9389,106.0611 3.75949,2.89192 4.69937,-9.25414 -0.1446,-1.952045 -5.20545,-0.0723 z"
            id="path3228"
-           inkscape:label="bottom reight" /></g></g><g
-       inkscape:groupmode="layer"
-       id="g3236"
-       inkscape:label="sand stream"
-       style="display:inline"><path
-         id="path2540"
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         inkscape:label="ember sand"
-         d="m 143.4393,94.854837 c -9.18865,9.258063 -18.12708,18.294903 -26.88001,27.150283 l 4.34289,8.17366 c 9.89997,-9.89353 19.75572,-19.70047 28.88247,-28.75794 z"
-         sodipodi:nodetypes="ccccc" /></g></g></svg>
+           inkscape:label="bottom reight" /></g></g></g></svg>
