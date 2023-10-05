@@ -2,15 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="199.49052mm"
+   height="134.1515mm"
+   viewBox="0 0 199.49052 134.1515"
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="sun-station_white.svg"
-   inkscape:export-filename="sun-station_white.png"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="sun-station_v1_wip.svg"
+   inkscape:export-filename="sun-station_v1.png"
    inkscape:export-xdpi="509.29739"
    inkscape:export-ydpi="509.29739"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,19 +28,20 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.2426901"
-     inkscape:cx="265.55293"
-     inkscape:cy="514.20704"
-     inkscape:window-width="2498"
-     inkscape:window-height="1417"
-     inkscape:window-x="2552"
-     inkscape:window-y="-8"
+     inkscape:cx="241.0094"
+     inkscape:cy="251.06823"
+     inkscape:window-width="2560"
+     inkscape:window-height="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" /><defs
+     inkscape:current-layer="g1066" /><defs
      id="defs2" /><g
      inkscape:groupmode="layer"
      id="g1066"
      inkscape:label="final"
-     style="display:inline;fill:#ffffff;fill-opacity:1"><g
+     style="display:inline;fill:#ffffff;fill-opacity:1"
+     transform="translate(-6.3873527,-69.622107)"><g
        inkscape:groupmode="layer"
        id="g1024"
        inkscape:label="control"
@@ -157,7 +158,7 @@
          id="path1030"
          style="fill:#ffffff;fill-opacity:1;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.6"
          inkscape:label="bridge"
-         d="M 82.026001 94.320341 L 78.113578 105.83747 L 97.078312 105.83747 L 93.165889 94.320341 L 82.026001 94.320341 z M 95.098071 94.320341 L 99.010494 105.83747 L 109.9814 105.83747 L 113.89382 94.320341 L 95.098071 94.320341 z M 115.82549 94.320341 L 111.91307 105.83747 L 130.77186 105.83747 L 126.85944 94.320341 L 115.82549 94.320341 z M 128.79162 94.320341 L 132.70404 105.83747 L 143.24862 105.83747 L 147.16104 94.320341 L 128.79162 94.320341 z M 149.09323 94.320341 L 145.1808 105.83747 L 162.81487 105.83747 L 158.90245 94.320341 L 149.09323 94.320341 z " /></g><g
+         d="M 82.026001,94.320341 78.113578,105.83747 H 97.078312 L 93.165889,94.320341 Z m 13.07207,0 3.912423,11.517129 H 109.9814 l 3.91242,-11.517129 z m 20.727419,0 -3.91242,11.517129 h 18.85879 l -3.91242,-11.517129 z m 12.96613,0 3.91242,11.517129 h 10.54458 l 3.91242,-11.517129 z m 20.30161,0 -3.91243,11.517129 h 17.63407 l -3.91242,-11.517129 z" /></g><g
        inkscape:groupmode="layer"
        id="g1064"
        inkscape:label="warp"
@@ -193,4 +194,4 @@
          id="path1062"
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.6;stroke-dasharray:none"
          inkscape:label="main"
-         d="M 156.75632 73.081844 L 156.75632 78.298063 L 163.0903 85.484188 L 167.71431 120.10223 L 170.61233 123.82862 L 171.15596 130.64112 L 178.12556 130.64112 L 178.6692 123.82862 L 181.56773 120.10223 L 186.19122 85.484188 L 192.52572 78.298063 L 192.52572 73.081844 L 156.75632 73.081844 z M 165.85809 78.298063 L 167.51122 78.298063 L 167.489 79.908818 L 168.78608 84.499235 L 174.69476 121.89178 L 174.73869 121.89178 L 174.74386 121.89178 L 180.65254 84.499235 L 181.94962 79.908818 L 181.92688 78.298063 L 183.58053 78.298063 L 183.58053 79.895382 L 182.32737 84.571582 L 175.86213 127.05529 L 173.57649 127.05529 L 167.11125 84.571582 L 165.85809 79.895382 L 165.85809 78.298063 z " /></g></g></svg>
+         d="m 156.75632,73.081844 v 5.216219 l 6.33398,7.186125 4.62401,34.618042 2.89802,3.72639 0.54363,6.8125 h 6.9696 l 0.54364,-6.8125 2.89853,-3.72639 4.62349,-34.618042 6.3345,-7.186125 v -5.216219 z m 9.10177,5.216219 h 1.65313 l -0.0222,1.610755 1.29708,4.590417 5.90868,37.392545 h 0.0439 0.005 l 5.90868,-37.392545 1.29708,-4.590417 -0.0227,-1.610755 h 1.65365 v 1.597319 l -1.25316,4.6762 -6.46524,42.483708 h -2.28564 l -6.46524,-42.483708 -1.25316,-4.6762 z" /></g></g></svg>
