@@ -26,8 +26,10 @@ The following icons are included in this repo.
 	- Sun Station v1
 - The Eye
   -  The Eye
-  -  The full Eye
+  -  The Full Eye
 - The Stranger Eye
+  - The Stranger Eye
+  - The Full Stranger Eye
 - The Stranger
 - Timber Hearth
 - White Hole Station
