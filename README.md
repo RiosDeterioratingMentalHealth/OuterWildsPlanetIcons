@@ -28,13 +28,16 @@ The following icons are included in this repo.
   -  The Eye
   -  The full Eye
 - The Stranger Eye
+- The Stranger
 - Timber Hearth
 - White Hole Station
 
-## Disclamer
-I did not originially create most of these icons and merely redrew from lower quality reference images i found online or in the game.
+## Disclaimer
 
-The following icons were either directly created by me or are my alterations of previously existing icons.
+Most icons in this repo were not originally created by the contributors.
+Most were merely redrawn from lower quality reference images found online or in the game Outer Wilds.
+
+The following icons were either newly created by contributors or are alterations of previously existing icons.
 
 - Brittle Hollow
   - Britt Hollow v2 
@@ -43,9 +46,10 @@ The following icons were either directly created by me or are my alterations of 
 - Orbital Probe Canon
 - Sun Station
 - The Full Eye
+- The Stranger
 
 ## Licensing
-From my side you can do whatever you want with these icons, just pls credit me and don't involve them in any bigotry.
+From [my](https://github.com/RiosDeterioratingMentalHealth) side you can do whatever you want with these icons, just please be kind.
 I can't speak for whoever holds the rights to the icons that i did not originally create.
 
 ---
