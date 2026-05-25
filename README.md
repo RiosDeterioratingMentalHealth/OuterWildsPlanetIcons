@@ -29,7 +29,9 @@ The following icons are included in this repo.
   -  The Full Eye
 - The Stranger Eye
   - The Stranger Eye
+  - The Trapped Stranger Eye
   - The Full Stranger Eye
+  - The Trapped Full Stranger Eye
 - The Stranger
 - Timber Hearth
 - White Hole Station
