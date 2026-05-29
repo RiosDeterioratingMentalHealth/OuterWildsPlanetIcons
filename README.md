@@ -32,6 +32,7 @@ The following icons are included in this repo.
   - The Trapped Stranger Eye
   - The Full Stranger Eye
   - The Trapped Full Stranger Eye
+- Stranger Quantum Moon
 - The Stranger
 - Timber Hearth
 - White Hole Station
@@ -48,6 +49,7 @@ The following icons were either newly created by contributors or are alterations
   - Britt Hollow v3 
 - Giant's Deep v2
 - Orbital Probe Canon
+- Stranger Quantum Moon
 - Sun Station
 - The Full Eye
 - The Stranger
